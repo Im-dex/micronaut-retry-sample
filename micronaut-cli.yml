@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: retries
+---
+testFramework: junit
+sourceLanguage: java
